@@ -12,6 +12,8 @@ public:
             diff=abs(s[i]-s[i+1]);
             sum+=diff;
         }
-        return sum;//time complexity is O(n) and space complexity is O(1)
+        return sum;
     }
 };
+//Time complexity is O(n)
+//Space complexity is O(1)
