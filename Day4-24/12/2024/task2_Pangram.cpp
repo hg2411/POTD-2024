@@ -1,5 +1,5 @@
 //Day-4 Date-24-12-2024
-//Task2-Pangram
+//Task2-Pangram Problem
 //https://codeforces.com/contest/520/submission/298132243
 
 #include<iostream>
