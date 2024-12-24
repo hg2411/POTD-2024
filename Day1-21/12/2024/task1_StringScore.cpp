@@ -1,5 +1,5 @@
 // Day:1 Date:21-12-2024
-// Task2-String Score
+// Task1-String Score
 // https://leetcode.com/problems/score-of-a-string/description/
 #include<iostream>
 using namespace std;
